@@ -102,7 +102,7 @@ This project is licensed under the **MIT License**.
 
 ## 👥 Contributors
 - Rakshitha Srinivasa  
-- email-rakshithasriivasa111@gmail.com
+- email-rakshithasrinivasa111@gmail.com
 
 ---
 
