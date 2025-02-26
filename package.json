@@ -1,0 +1,32 @@
+{
+  "name": "autofix-ai-vscode-extension",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "compile": "tsc",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributes": {
+    "commands": [
+      {
+        "command": "bugguru.fixBugs",
+        "title": "BugGuru: Fix Bugs"
+      },
+      {
+        "command": "bugguru.optimizeCode",
+        "title": "BugGuru: Optimize Code"
+      },
+      {
+        "command": "bugguru.generateTests",
+        "title": "BugGuru: Generate Tests"
+      }
+    ]
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
