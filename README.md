@@ -66,10 +66,12 @@ python live_debugger.py script.py
 ```
 
 ### **5. Use CLI Tool (Main Entry Point)**
+(Note: script.py is just an example file for testing purposes.)
 ```bash
 python main.py fix script.py
 python main.py optimize script.py
 python main.py test script.py
+python main.py debug script.py
 ```
 
 ---
