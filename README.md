@@ -1,6 +1,6 @@
 # BugGuru
 BugGuru 🧑‍💻🔍 – Your AI-powered debugging expert! It not only automatically detects and fixes code bugs but also explains the fixes to help you write better code. 
-# BugGuru++ - AI-Powered Debugging & Test Generation
+
 
 ## 📌 Overview
 BugGuru is an AI-driven debugging and test-generation tool designed to help developers **identify, fix, and optimize Python code** efficiently. It leverages **OpenAI's Llama models via Together.ai** to detect bugs, provide AI-generated fixes, optimize performance, and generate test cases. It includes a **live debugging mode** for real-time insights and an optional **VS Code extension** for seamless integration.
